@@ -4,29 +4,32 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+Web+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aorabi07&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
-
-
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Girl" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
 ## 🌸 About Me
 
-- 🎓 **Degree:** BSc in CSE — Final Year
-- 🏫 **University:** Uttara University, Dhaka
-- 📍 **Location:** Dhaka, Bangladesh 🇧🇩
-- 📫 **Email:** akandnabila721@gmail.com
-- 🌱 **Learning:** React.js, Node.js, REST API
-- 🎯 **Goal:** Full Stack Web Developer
-- 💕 **Passion:** Building beautiful websites
-
-<br clear="right"/>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Degree:</b> BSc in CSE — Final Year</li>
+        <li>🏫 <b>University:</b> Uttara University, Dhaka</li>
+        <li>📍 <b>Location:</b> Dhaka, Bangladesh 🇧🇩</li>
+        <li>📫 <b>Email:</b> <a href="mailto:akandnabila721@gmail.com">akandnabila721@gmail.com</a></li>
+        <li>🌱 <b>Learning:</b> React.js, Node.js, REST API</li>
+        <li>🎯 <b>Goal:</b> Full Stack Web Developer</li>
+        <li>💕 <b>Passion:</b> Building beautiful websites</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img alt="Coding Girl" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,59 +39,22 @@
 
 ### 🎨 Frontend
 
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
 
 ### ⚙️ Languages
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
-
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
 
 ### 🗄️ Database & Tools
 
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
 
 </div>
 
