@@ -73,6 +73,23 @@
 
 ---
 
+## 🕹️ Featured Game
+
+<div align="center">
+
+### ⚡ Check out my latest Browser Game! ⚡
+
+<a href="https://aorabi07.github.io/my-js-game/index-1.html">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B9D&text=🎮%20Play%20My%20JS%20Game%20Now!&fontSize=25&fontColor=fff&animation=blinking&height=70&width=450&border_radius=15" alt="Play Game Banner" />
+</a>
+
+<br>
+<p>Click the flashing banner above to start playing instantly in your browser! 🚀</p>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -80,7 +97,6 @@
 | 🏷️ Project | 📝 Description | 🛠️ Tech |
 |:----------:|:-------------:|:-------:|
 | [🧮 Calculator App (Live)](https://aorabi07.github.io/my-calculator-app/) | A sleek and responsive web calculator | HTML, CSS, JavaScript |
-| [🎮 My JS Game (Play Here!)](https://aorabi07.github.io/my-js-game/index-1.html) | An interactive browser-based game | HTML, CSS, JavaScript |
 | [🍽️ FlavorHaven](https://github.com/aorabi07/FlavorHaven) | Cloud-Based Food Ordering & Reservation System | JavaScript |
 | [✅ Todo List App](https://github.com/aorabi07/todo-list-app) | Web App with Deadline Tracking & Theme Toggle | HTML, CSS, JS |
 | 🔒 Final Year Project | Coming Soon... | - |
