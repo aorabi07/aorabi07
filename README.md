@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nabila%20Akter&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Final%20Year%20CSE%20Student%20%7C%20Aspiring%20Web%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+Web+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+Web+Developer;Code.+Learn.+Build.+Repeat.;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aorabi07&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
 
