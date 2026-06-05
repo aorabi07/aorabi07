@@ -22,7 +22,7 @@
         <li>📫 <b>Email:</b> <a href="mailto:akandnabila721@gmail.com">akandnabila721@gmail.com</a></li>
         <li>🌱 <b>Learning:</b> React.js, Node.js, REST API</li>
         <li>🎯 <b>Goal:</b> Full Stack Web Developer</li>
-        <li>💕 <b>Passion:</b> Building beautiful websites</li>
+        <li>💕 <b>Passion:</b> Building websites</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
@@ -64,8 +64,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=aorabi07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=FF6B9D&icon_color=FF6B9D" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorabi07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=FF6B9D" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aorabi07&theme=tokyonight" />
 
 </div>
 
