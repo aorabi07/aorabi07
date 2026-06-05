@@ -60,14 +60,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aorabi07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=FF6B9D&icon_color=FF6B9D" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aorabi07&theme=tokyonight&hide_border=true&border_radius=10&ring=FF6B9D&fire=FF6B9D" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorabi07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=FF6B9D" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=aorabi07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=FF6B9D&icon_color=FF6B9D" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorabi07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=FF6B9D" />
 
 </div>
 
