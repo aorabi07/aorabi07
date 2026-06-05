@@ -79,7 +79,7 @@
 
 ### ⚡ Check out my latest Browser Game! ⚡
 
-<a href="https://aorabi07.github.io/my-js-game/index-1.html">
+<a href="https://aorabi07.github.io/my-js-game/">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B9D&text=🎮%20Play%20My%20JS%20Game%20Now!&fontSize=25&fontColor=fff&animation=blinking&height=70&width=450&border_radius=15" alt="Play Game Banner" />
 </a>
 
