@@ -79,6 +79,8 @@
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech |
 |:----------:|:-------------:|:-------:|
+| [🧮 Calculator App (Live)](https://aorabi07.github.io/my-calculator-app/) | A sleek and responsive web calculator | HTML, CSS, JavaScript |
+| [🎮 My JS Game (Play Here!)](https://aorabi07.github.io/my-js-game/index-1.html) | An interactive browser-based game | HTML, CSS, JavaScript |
 | [🍽️ FlavorHaven](https://github.com/aorabi07/FlavorHaven) | Cloud-Based Food Ordering & Reservation System | JavaScript |
 | [✅ Todo List App](https://github.com/aorabi07/todo-list-app) | Web App with Deadline Tracking & Theme Toggle | HTML, CSS, JS |
 | 🔒 Final Year Project | Coming Soon... | - |
