@@ -16,7 +16,7 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🎓 <b>Degree:</b> BSc in CSE — Final Year</li>
+        <li>🎓 <b>Degree:</b> BSc in computer science Engineering </li>
         <li>🏫 <b>University:</b> Uttara University, Dhaka</li>
         <li>📍 <b>Location:</b> Dhaka, Bangladesh 🇧🇩</li>
         <li>📫 <b>Email:</b> <a href="mailto:akandnabila721@gmail.com">akandnabila721@gmail.com</a></li>
